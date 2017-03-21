@@ -1,0 +1,4 @@
+﻿INFO  09-30-2017 14:30:28 Sample.Core.Presentation.Controllers.HomeController [4] - Test log information 
+INFO  21-22-2017 15:22:11 Sample.Core.Presentation.Controllers.HomeController [4] - Test log information 
+INFO  21-22-2017 15:22:52 Sample.Core.Presentation.Controllers.HomeController [14] - Test log information 
+INFO  21-24-2017 15:24:23 Sample.Core.Presentation.Controllers.HomeController [3] - Test log information 
